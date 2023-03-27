@@ -2,11 +2,11 @@
 
 ![handwired/westpointkeyboard](imgur.com image replace me!)
 
-*A short description of the keyboard/project*
+*40% handwired keyboard based on JD40mkll design - with big spacebar*
 
 * Keyboard Maintainer: [Geogi Angelov](https://github.com/GeorgeAng)
-* Hardware Supported: *The PCBs, controllers supported*
-* Hardware Availability: *Links to where you can find this hardware*
+* Hardware Supported: Pro Micro
+
 
 Make example for this keyboard (after setting up your build environment):
 
