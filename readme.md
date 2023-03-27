@@ -1,6 +1,5 @@
 # handwired/westpointkeyboard
 
-![handwired/westpointkeyboard](imgur.com image replace me!)
 
 *40% handwired keyboard based on JD40mkll design - with big spacebar*
 
